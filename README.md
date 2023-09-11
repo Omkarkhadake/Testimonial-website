@@ -1,4 +1,4 @@
-# Testimonial-website
+# Testimonial-website-React
 
 ##Video
 https://www.loom.com/share/dbfb0cb552214cd4b5293115372d6aca?t=8&sid=e1852260-1b05-4d8a-9902-f985010f3fde
